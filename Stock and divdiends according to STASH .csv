@@ -1,66 +1,66 @@
 Company/ Stock name,Ticker,Last Price,Dividendyieldp,Dividendyieldd
-Berkshire Hathaway Inc. Class B,BRK.B,226.90,0.000,0.00
-"Amazon.com, Inc.",AMZN,"2,134.87",0.000,0.00
-"Facebook, Inc.",FB,214.18,0.000,0.00
-Alphabet Inc.,GOOGL,"1,518.73",0.000,0.00
-"Netflix, Inc.",NFLX,380.40,0.000,0.00
-Alibaba Group Holding Limited,BABA,219.47,0.000,0.00
-Snap,SNAP,17.57,0.000,0.00
-"Tesla, Inc.",TSLA,800.03,0.000,0.00
-"Electronic Arts, Inc.",EA,109.69,0.000,0.00
-"Take-Two Interactive Software, Inc.",TTWO,113.43,0.000,0.00
-"JD.com, Inc",JD,41.97,0.000,0.00
-"Advanced Micro Devices, Inc",AMD,55.31,0.000,0.00
-Square,SQ,81.88,0.000,0.00
-"Twitter, Inc.",TWTR,36.91,0.000,0.00
-"Chipotle Mexican Grill, Inc.",CMG,922.41,0.000,0.00
-Booking Holdings Inc.,BKNG,"1,990.96",0.000,0.00
-"TripAdvisor, Inc.",TRIP,29.65,0.000,0.00
-"Under Armour, Inc.",UAA,17.18,0.000,0.00
-Adobe Systems Incorporated,ADBE,379.69,0.000,0.00
-"salesforce.com, inc.",CRM,189.87,0.000,0.00
-"Match Group, Inc.",MTCH,76.50,0.000,0.00
-Monster Beverage Corporation,MNST,69.86,0.000,0.00
-"PayPal Holdings, Inc.",PYPL,122.99,0.000,0.00
-"Shake Shack, Inc.",SHAK,73.25,0.000,0.00
-Sprint Corporation,S,8.70,0.000,0.00
-"T-Mobile US, Inc.",TMUS,96.48,0.000,0.00
-Denny's Corporation,DENN,20.15,0.000,0.00
-DISH Network Corporation,DISH,39.97,0.000,0.00
-Dollar Tree Inc.,DLTR,86.68,0.000,0.00
-"Charter Communications, Inc.",CHTR,534.89,0.000,0.00
-Spotify Technology SA,SPOT,140.99,0.000,0.00
-"AutoZone, Inc.",AZO,"1,052.16",0.000,0.00
-"O'Reilly Automotive, Inc.",ORLY,390.89,0.000,0.00
-BJ's Wholesale Club Holdings Inc.,BJ,21.88,0.000,0.00
-LYFT Inc.,LYFT,44.69,0.000,0.00
-"Ulta Beauty, Inc.",ULTA,249.57,0.000,0.00
-Sprouts Farmers Market Inc.,SFM,15.45,0.000,0.00
-JetBlue Airways Corporation,JBLU,21.27,0.000,0.00
-Norwegian Cruise Line Holdings Ltd.,NCLH,52.55,0.000,0.00
-United Continental Holdings Inc.,UAL,79.55,0.000,0.00
-Hertz Global Holdings Inc.,HTZ,19.70,0.000,0.00
-Uber Technologies Inc,UBER,39.63,0.000,0.00
-"Beyond Meat, Inc.",BYND,116.22,0.000,0.00
-"Pinterest, Inc.",PINS,23.21,0.000,0.00
-GrubHub Inc.,GRUB,50.37,0.000,0.00
-Aurora Cannabis Inc,ACB,1.56,0.000,0.00
-Canopy Growth Corp,CGC,22.52,0.000,0.00
-Cronos Group Inc,CRON,7.34,0.000,0.00
-Hexo Corp,HEXO,1.51,0.000,0.00
-Tilray Inc,TLRY,17.39,0.000,0.00
-GW Pharmaceuticals PLC,GWPH,127.10,0.000,0.00
-"Slack Technologies, Inc.",WORK,27.98,0.000,0.00
-"VMware, Inc.",VMW,161.77,0.000,0.00
+Berkshire Hathaway Inc. Class B,BRK.B,226.9,0,0
+"Amazon.com, Inc.",AMZN,"2,134.87",0,0
+"Facebook, Inc.",FB,214.18,0,0
+Alphabet Inc.,GOOGL,"1,518.73",0,0
+"Netflix, Inc.",NFLX,380.4,0,0
+Alibaba Group Holding Limited,BABA,219.47,0,0
+Snap,SNAP,17.57,0,0
+"Tesla, Inc.",TSLA,800.03,0,0
+"Electronic Arts, Inc.",EA,109.69,0,0
+"Take-Two Interactive Software, Inc.",TTWO,113.43,0,0
+"JD.com, Inc",JD,41.97,0,0
+"Advanced Micro Devices, Inc",AMD,55.31,0,0
+Square,SQ,81.88,0,0
+"Twitter, Inc.",TWTR,36.91,0,0
+"Chipotle Mexican Grill, Inc.",CMG,922.41,0,0
+Booking Holdings Inc.,BKNG,"1,990.96",0,0
+"TripAdvisor, Inc.",TRIP,29.65,0,0
+"Under Armour, Inc.",UAA,17.18,0,0
+Adobe Systems Incorporated,ADBE,379.69,0,0
+"salesforce.com, inc.",CRM,189.87,0,0
+"Match Group, Inc.",MTCH,76.5,0,0
+Monster Beverage Corporation,MNST,69.86,0,0
+"PayPal Holdings, Inc.",PYPL,122.99,0,0
+"Shake Shack, Inc.",SHAK,73.25,0,0
+Sprint Corporation,S,8.7,0,0
+"T-Mobile US, Inc.",TMUS,96.48,0,0
+Denny's Corporation,DENN,20.15,0,0
+DISH Network Corporation,DISH,39.97,0,0
+Dollar Tree Inc.,DLTR,86.68,0,0
+"Charter Communications, Inc.",CHTR,534.89,0,0
+Spotify Technology SA,SPOT,140.99,0,0
+"AutoZone, Inc.",AZO,"1,052.16",0,0
+"O'Reilly Automotive, Inc.",ORLY,390.89,0,0
+BJ's Wholesale Club Holdings Inc.,BJ,21.88,0,0
+LYFT Inc.,LYFT,44.69,0,0
+"Ulta Beauty, Inc.",ULTA,249.57,0,0
+Sprouts Farmers Market Inc.,SFM,15.45,0,0
+JetBlue Airways Corporation,JBLU,21.27,0,0
+Norwegian Cruise Line Holdings Ltd.,NCLH,52.55,0,0
+United Continental Holdings Inc.,UAL,79.55,0,0
+Hertz Global Holdings Inc.,HTZ,19.7,0,0
+Uber Technologies Inc,UBER,39.63,0,0
+"Beyond Meat, Inc.",BYND,116.22,0,0
+"Pinterest, Inc.",PINS,23.21,0,0
+GrubHub Inc.,GRUB,50.37,0,0
+Aurora Cannabis Inc,ACB,1.56,0,0
+Canopy Growth Corp,CGC,22.52,0,0
+Cronos Group Inc,CRON,7.34,0,0
+Hexo Corp,HEXO,1.51,0,0
+Tilray Inc,TLRY,17.39,0,0
+GW Pharmaceuticals PLC,GWPH,127.1,0,0
+"Slack Technologies, Inc.",WORK,27.98,0,0
+"VMware, Inc.",VMW,161.77,0,0
 "Advance Auto Parts, Inc.",AAP,133.57,0.002,0.24
 Thermo Fisher Scientific Inc.,TMO,339.18,0.002,0.75
-NVIDIA Corporation,NVDA,289.79,0.002,0.70
+NVIDIA Corporation,NVDA,289.79,0.002,0.7
 General Electric Company,GE,12.83,0.003,0.04
 Danaher Corporation (Danaher),DHR,165.95,0.004,0.68
-"Mastercard, Inc",MA,340.94,0.005,1.60
-"Hilton Worldwide Housings, Inc.",HLT,113.26,0.005,0.60
+"Mastercard, Inc",MA,340.94,0.005,1.6
+"Hilton Worldwide Housings, Inc.",HLT,113.26,0.005,0.6
 Sony Corporation,SNE,68.84,0.005,0.36
-"Visa, Inc",V,210.23,0.006,1.20
+"Visa, Inc",V,210.23,0.006,1.2
 "Activision Blizzard, Inc.",ATVI,63.52,0.007,0.42
 Intuit Inc.,INTU,304.29,0.007,2.13
 "Casey's General Stores, Inc.",CASY,173.82,0.007,1.29
@@ -68,82 +68,82 @@ Sirius XM Holdings Inc.,SIRI,7.21,0.007,0.05
 Sherwin-Williams Company,SHW,585.23,0.008,4.51
 Dollar General Corporation,DG,158.03,0.008,1.28
 Costco Wholesale Corporation,COST,318.31,0.008,2.61
-"Domino's Pizza, Inc.",DPZ,291.69,0.009,2.60
+"Domino's Pizza, Inc.",DPZ,291.69,0.009,2.6
 Estee Lauder Companies Inc.,EL,214.98,0.009,1.91
-"Fidelity National Information Services, Inc.",FIS,157.43,0.009,1.40
+"Fidelity National Information Services, Inc.",FIS,157.43,0.009,1.4
 Hyatt Hotels Corporation,H,89.97,0.009,0.82
-"Apple, Inc.",AAPL,324.95,0.010,3.09
-"NIKE, Inc.",NKE,103.56,0.010,0.98
-AGCO Corporation,AGCO,66.76,0.010,0.64
-Aramark Corporation,ARMK,42.46,0.010,0.44
-Stryker Corporation,SYK,221.59,0.010,2.30
+"Apple, Inc.",AAPL,324.95,0.01,3.09
+"NIKE, Inc.",NKE,103.56,0.01,0.98
+AGCO Corporation,AGCO,66.76,0.01,0.64
+Aramark Corporation,ARMK,42.46,0.01,0.44
+Stryker Corporation,SYK,221.59,0.01,2.3
 "World Wrestling Entertainment, Inc.",WWE,44.94,0.011,0.48
 Microsoft Corporation,MSFT,185.35,0.011,2.06
-"Expedia Group, Inc.",EXPE,122.80,0.011,1.36
+"Expedia Group, Inc.",EXPE,122.8,0.011,1.36
 "Becton, Dickinson and Company",BDX,260.11,0.012,3.15
 Fox Corporation,FOX,37.31,0.012,0.46
 Southwest Airlines Co.,LUV,57.98,0.012,0.72
 The Walt Disney Company,DIS,139.52,0.013,1.74
 American Express Company,AXP,135.85,0.013,1.73
-"Marriott International, Inc.",MAR,144.90,0.013,1.93
-"Papa John's International, Inc.",PZZA,65.88,0.014,0.90
-American Airlines Group Inc.,AAL,29.20,0.014,0.40
+"Marriott International, Inc.",MAR,144.9,0.013,1.93
+"Papa John's International, Inc.",PZZA,65.88,0.014,0.9
+American Airlines Group Inc.,AAL,29.2,0.014,0.4
 Northrop Grumman Corporation,NOC,370.82,0.014,5.27
-Tractor Supply Company,TSCO,98.17,0.014,1.40
+Tractor Supply Company,TSCO,98.17,0.014,1.4
 UnitedHealth Group Incorporated,UNH,298.54,0.015,4.33
 "TJX Companies, Inc.",TJX,63.41,0.015,0.92
 Constellation Brands,STZ,203.74,0.015,2.99
-Avis Budget Group Inc.,CAR,44.30,0.015,0.66
+Avis Budget Group Inc.,CAR,44.3,0.015,0.66
 Accenture plc,ACN,212.37,0.015,3.21
-Linde plc,LIN,222.60,0.016,3.49
+Linde plc,LIN,222.6,0.016,3.49
 American Tower Corporation,AMT,256.24,0.016,4.05
 "CME Group Inc.,",CME,213.13,0.016,3.41
 Abbott Laboratories,ABT,89.65,0.016,1.44
 "Republic Services, Inc.",RSG,100.46,0.016,1.62
-FedEx Corporation,FDX,158.61,0.016,2.60
+FedEx Corporation,FDX,158.61,0.016,2.6
 Raytheon Company,RTN,227.17,0.017,3.77
-Hess Corporation,HES,60.32,0.017,1.00
+Hess Corporation,HES,60.32,0.017,1
 eBay Inc.,EBAY,38.17,0.017,0.64
-Oracle Corporation,ORCL,55.50,0.017,0.96
+Oracle Corporation,ORCL,55.5,0.017,0.96
 Tiffany & Co.,TIF,134.27,0.017,2.32
 "Lowe's Companies, Inc.",LOW,125.41,0.018,2.19
 AmerisourceBergen Corporation,ABC,94.39,0.018,1.68
 "YUM! Brands, Inc.",YUM,105.27,0.018,1.88
 "Wal-Mart Stores, Inc.",WMT,117.93,0.018,2.13
 Deere & Company,DEO,168.04,0.018,3.04
-"Jack in the Box, Inc.",JACK,88.31,0.018,1.60
+"Jack in the Box, Inc.",JACK,88.31,0.018,1.6
 Starbucks Corporation,SBUX,89.28,0.018,1.62
 Chubb Limited,CB,164.52,0.018,2.99
 Medtronic Public Limited Company,MDT,117.25,0.018,2.16
-Bloomin' Brands Inc.,BLMN,21.54,0.019,0.40
-MGM Resorts International,MGM,31.53,0.019,0.60
+Bloomin' Brands Inc.,BLMN,21.54,0.019,0.4
+MGM Resorts International,MGM,31.53,0.019,0.6
 Hormel Foods Corporation,HRL,48.58,0.019,0.93
 "Mondelez International, Inc.",MDLZ,59.68,0.019,1.14
 United Technologies Corporation,UTX,153.56,0.019,2.95
 The Hershey Company,HSY,160.36,0.019,3.09
-Intel Corporation,INTC,67.27,0.020,1.32
-Honeywell International,HON,180.80,0.020,3.60
-Comcast Corporation,CMCSA,46.09,0.020,0.92
-"NextEra Energy, Inc",NEE,278.64,0.020,5.60
-"Automatic Data Processing, Inc.",ADP,181.25,0.020,3.64
+Intel Corporation,INTC,67.27,0.02,1.32
+Honeywell International,HON,180.8,0.02,3.6
+Comcast Corporation,CMCSA,46.09,0.02,0.92
+"NextEra Energy, Inc",NEE,278.64,0.02,5.6
+"Automatic Data Processing, Inc.",ADP,181.25,0.02,3.64
 Bank of America Corporation,BAC,34.85,0.021,0.72
-Keurig Doctor Pepper Inc.,KDP,28.86,0.021,0.60
+Keurig Doctor Pepper Inc.,KDP,28.86,0.021,0.6
 Tyson Foods Inc.,TSN,80.48,0.021,1.68
 Union Pacific Corporation,UNP,183.91,0.021,3.86
 The Wendy's Company,WEN,22.91,0.021,0.48
 Eli Lilly and Company,LLY,141.16,0.021,2.96
-"Goldman Sachs Group, Inc.",GS,237.07,0.021,5.00
+"Goldman Sachs Group, Inc.",GS,237.07,0.021,5
 "Dunkin' Brands, Inc.",DNKN,75.78,0.021,1.61
 General Dynamics Corporation,GD,188.01,0.022,4.08
 Lockheed Martin Corporation,LMT,437.79,0.022,9.59
-Best Buy Co. Inc.,BBY,90.27,0.022,2.00
-Target Corporation,TGT,116.63,0.022,2.60
+Best Buy Co. Inc.,BBY,90.27,0.022,2
+Target Corporation,TGT,116.63,0.022,2.6
 "The Home Depot, Inc.",HD,245.03,0.022,5.49
 "Seven & i Holdings Co., Ltd.",SVNDY,19.43,0.022,0.44
 Colgate-Palmolive Company,CL,76.68,0.022,1.72
-"DuPont de Nemours, Inc.",DD,53.08,0.023,1.20
+"DuPont de Nemours, Inc.",DD,53.08,0.023,1.2
 The Kroger Co.,TR,28.23,0.023,0.64
-"Alaska Air Group, Inc.",ALK,66.08,0.023,1.50
+"Alaska Air Group, Inc.",ALK,66.08,0.023,1.5
 Ameren Corporation,AEE,86.82,0.023,1.98
 McDonald's Corporation,MCD,217.09,0.023,4.99
 V.F. Corporation,VFU,83.64,0.023,1.92
@@ -155,47 +155,47 @@ The Boeing Company,BA,340.53,0.024,8.17
 Sempra Energy,SR,160.95,0.024,3.86
 Eversource Energy,ES,93.65,0.024,2.27
 "WEC Energy Group, Inc.",WEC,101.88,0.025,2.53
-Dick's Sporting Goods Inc.,DKS,44.07,0.025,1.10
-Morgan Stanley,MS,55.79,0.025,1.40
-Johnson & Johnson,JNJ,150.10,0.025,3.80
-"BlackRock, Inc.",BLK,565.60,0.026,14.54
-"Citigroup, Inc",C,78.80,0.026,2.04
+Dick's Sporting Goods Inc.,DKS,44.07,0.025,1.1
+Morgan Stanley,MS,55.79,0.025,1.4
+Johnson & Johnson,JNJ,150.1,0.025,3.8
+"BlackRock, Inc.",BLK,565.6,0.026,14.54
+"Citigroup, Inc",C,78.8,0.026,2.04
 "ConAgra Brands, Inc.",CAG,32.69,0.026,0.85
 "PepsiCo, Inc.",PEP,146.99,0.026,3.84
-JPMorgan Chase & Co,JPM,137.36,0.026,3.60
+JPMorgan Chase & Co,JPM,137.36,0.026,3.6
 The Coca-Cola Company,KO,59.94,0.027,1.61
-Bristol-Myers Squibb Company,BMY,66.39,0.027,1.80
-Texas Instruments Incorporated,TXN,132.21,0.027,3.60
+Bristol-Myers Squibb Company,BMY,66.39,0.027,1.8
+Texas Instruments Incorporated,TXN,132.21,0.027,3.6
 Anheuser-Busch InBev,BUD,73.51,0.027,2.01
-"Delta Airlines, Inc.",DAL,58.90,0.027,1.61
-Royal Caribbean Cruises Ltd,RCL,113.20,0.028,3.12
-Entergy Corporation,ETR,134.20,0.028,3.72
-QUALCOMM Incorporated,QCOM,89.60,0.028,2.48
-CVS Health Corporation,CVS,71.36,0.028,2.00
+"Delta Airlines, Inc.",DAL,58.9,0.027,1.61
+Royal Caribbean Cruises Ltd,RCL,113.2,0.028,3.12
+Entergy Corporation,ETR,134.2,0.028,3.72
+QUALCOMM Incorporated,QCOM,89.6,0.028,2.48
+CVS Health Corporation,CVS,71.36,0.028,2
 Amgen Inc.,AMGN,223.48,0.029,6.39
 ConocoPhillips,COP,58.62,0.029,1.68
-Campbell Soup Company,CPB,48.64,0.029,1.40
+Campbell Soup Company,CPB,48.64,0.029,1.4
 "Darden Restaurants, Inc",DRI,121.73,0.029,3.52
-"Merck & Co., Inc.",MRK,82.64,0.030,2.44
-"PNC Financial Services Group, Inc.",PNC,154.13,0.030,4.59
-"Caterpillar, Inc.",CAT,138.02,0.030,4.13
-FirstEnergy Corp.,FE,52.23,0.030,1.56
-"Dine Brands Global, Inc.",DNN,92.03,0.030,2.76
-DTE Energy Company,DTE,133.97,0.030,4.05
-"Wynn Resorts, Limited",WYNN,132.14,0.030,4.00
-"Cisco Systems, Inc.",CSCO,46.97,0.030,1.43
-Diageo PLC,DEO,160.90,0.030,4.89
-U.S. Bancorp,USB,55.10,0.031,1.68
+"Merck & Co., Inc.",MRK,82.64,0.03,2.44
+"PNC Financial Services Group, Inc.",PNC,154.13,0.03,4.59
+"Caterpillar, Inc.",CAT,138.02,0.03,4.13
+FirstEnergy Corp.,FE,52.23,0.03,1.56
+"Dine Brands Global, Inc.",DNN,92.03,0.03,2.76
+DTE Energy Company,DTE,133.97,0.03,4.05
+"Wynn Resorts, Limited",WYNN,132.14,0.03,4
+"Cisco Systems, Inc.",CSCO,46.97,0.03,1.43
+Diageo PLC,DEO,160.9,0.03,4.89
+U.S. Bancorp,USB,55.1,0.031,1.68
 Exelon Corporation,EXC,49.76,0.031,1.53
 Restaurant Brands International Inc.,QSR,67.24,0.031,2.08
 "Cummins, Inc.",CMI,166.82,0.031,5.24
 "Cracker Barrel Old Country Store, Inc.",CBRL,164.89,0.032,5.19
-HP Inc.,HPQ,22.38,0.032,0.70
+HP Inc.,HPQ,22.38,0.032,0.7
 Progressive Corp.,PGR,83.77,0.032,2.65
 The J.M. Smucker Company,SJM,119.05,0.032,3.81
 Public Service Enterprise Group Incorporated,PEG,58.47,0.032,1.88
-"Consolidated Edison, Inc.",ED,94.30,0.032,3.06
-Edison International,EIX,77.10,0.033,2.55
+"Consolidated Edison, Inc.",ED,94.3,0.032,3.06
+Edison International,EIX,77.1,0.033,2.55
 Hewlett Packard Enterprise Company,HPE,14.44,0.033,0.48
 Kellogg Company,K,67.69,0.034,2.28
 "MetLife, Inc.",MET,52.28,0.034,1.76
@@ -206,795 +206,46 @@ The Southern Company,SO,69.01,0.036,2.48
 "Brinker International, Inc.",EAT,41.57,0.037,1.52
 "Nordstrom, Inc.",JWM,40.28,0.037,1.48
 The 3M Company,MMM,161.03,0.037,5.93
-"General Mills, Inc.",GIS,53.30,0.037,1.96
+"General Mills, Inc.",GIS,53.3,0.037,1.96
 Duke Energy Corporation,DUK,101.29,0.037,3.78
-"Foot Locker, Inc.",FL,40.40,0.038,1.52
+"Foot Locker, Inc.",FL,40.4,0.038,1.52
 "United Parcel Service, Inc.",UPS,105.96,0.038,4.04
-Marathon Petroleum Corporation,MPC,58.31,0.040,2.32
-Phillips 66 Company,PSX,89.47,0.040,3.60
-"Gilead Sciences, Inc.",GILD,67.56,0.040,2.72
-"Broadcom Inc., formerly Broadcom Limited",AVGO,317.77,0.041,13.00
+Marathon Petroleum Corporation,MPC,58.31,0.04,2.32
+Phillips 66 Company,PSX,89.47,0.04,3.6
+"Gilead Sciences, Inc.",GILD,67.56,0.04,2.72
+"Broadcom Inc., formerly Broadcom Limited",AVGO,317.77,0.041,13
 Molson Coors Brewing,TAP,55.26,0.041,2.28
-"Pfizer, Inc",PFE,36.50,0.042,1.52
+"Pfizer, Inc",PFE,36.5,0.042,1.52
 Verizon Communications Inc.,VZ,58.49,0.042,2.46
 Wells Fargo & Company,WFC,48.23,0.042,2.04
 "CenterPoint Energy, Inc.",CNP,27.27,0.043,1.16
 International Business Machines Corporation,IBM,150.68,0.043,6.48
 "Dominion Energy, Inc., formerly Dominion Resources, Inc.",D,87.46,0.043,3.76
-General Motors Company,GM,34.76,0.043,1.50
-Harley-Davidson Inc.,HOG,34.35,0.044,1.50
+General Motors Company,GM,34.76,0.043,1.5
+Harley-Davidson Inc.,HOG,34.35,0.044,1.5
 "Cinemark Holdings, Inc",CNK,30.78,0.044,1.36
 National Grid plc,NGG,67.38,0.046,3.09
 Chevron Corporation,CVX,110.06,0.046,5.08
 Las Vegas Sands Corp.,LVS,68.05,0.046,3.16
-"Prudential Financial, Inc.",PRU,94.48,0.047,4.40
-Carnival Corporation,CCL,42.61,0.047,2.00
+"Prudential Financial, Inc.",PRU,94.48,0.047,4.4
+Carnival Corporation,CCL,42.61,0.047,2
 PPL Corporation,PPL,35.38,0.047,1.66
 Valero Energy Corporation,VLO,82.63,0.047,3.92
-AbbVie Inc.,ABBV,94.03,0.050,4.72
+AbbVie Inc.,ABBV,94.03,0.05,4.72
 Philip Morris International Inc.,PM,88.47,0.053,4.68
 "The Gap, Inc.",GPS,18.14,0.054,0.97
 AT&T Inc,T,38.25,0.054,2.08
 Exxon Mobil Corporation,XOM,60.64,0.057,3.46
-Schlumberger N.V.,SLB,34.43,0.058,2.00
-The Kraft Heinz Company,KHC,26.88,0.060,1.60
-Kohl?s Corporation,KSS,44.49,0.060,2.68
-"Simon Property Group, Inc",SPG,138.90,0.061,8.40
+Schlumberger N.V.,SLB,34.43,0.058,2
+The Kraft Heinz Company,KHC,26.88,0.06,1.6
+Kohl’s Corporation,KSS,44.49,0.06,2.68
+"Simon Property Group, Inc",SPG,138.9,0.061,8.4
 Bed Bath & Beyond Inc.,BBBY,11.18,0.061,0.68
-BP p.l.c.,BP,36.00,0.070,2.52
-Ford Motor Company,F,8.10,0.073,0.59
+BP p.l.c.,BP,36,0.07,2.52
+Ford Motor Company,F,8.1,0.073,0.59
 "Altria Group, Inc",MO,45.17,0.074,3.32
 "Royal Dutch Shell, plc.",RDS.A,50.72,0.075,3.78
 "Macy's, Inc.",M,16.66,0.091,1.51
-Sunoco LP,SUN,30.91,0.107,3.30
-AMC Entertainment Holdings,AMC,7.10,0.113,0.80
+Sunoco LP,SUN,30.91,0.107,3.3
+AMC Entertainment Holdings,AMC,7.1,0.113,0.8
   ,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
